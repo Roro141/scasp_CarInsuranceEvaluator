@@ -27,3 +27,5 @@ Finish developing our UI to be able to organize the final claim display.
 Add more specifications based on car price and model (luxury cars have higher insurance).
 Figure out how to create an interface for users to input their history instead of manually creating a specific file for each case.
 
+# **Build with**
+Java, Prolog sCasp
