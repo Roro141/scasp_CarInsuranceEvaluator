@@ -6,27 +6,29 @@ Given the multitude of factors that influence coverage options and premiums, it 
 Using machine learning techniques, the system predicts the most appropriate policy—cheap, standard, or expensive—based on the driver’s data with 100% accuracy.
 
 # **How we built it**
-Developed a grading system based on how many bad/good factors based on the clients driving record.
-Used prolog to define the logic.
-Used Ubuntu to compile and successfully test our file with an average runtime of 3.00s.
+* Developed a grading system based on how many bad/good factors based on the clients driving record.
+* Used prolog to define the logic.
+* Used Ubuntu to compile and successfully test our file with an average runtime of 3.00s.
 
 # **Challenges we ran into**
  * We encountered challenges in properly executing the prolog code.
  * It was hard to ensure that all relevant factors were thoroughly considered when assigning insurance.
 
 # **Accomplishments we are proud of**
-We worked with sCasp for the first time and made a good product.
-Created something that's applicable in real life.
-The underlying logic for assigning an insurance type to a client is well-structured.
+* We worked with sCasp for the first time and made a good product.
+* Created something that's applicable in real life.
+* The underlying logic for assigning an insurance type to a client is well-structured.
 
 # **What we learned**
-Learned how to use prolog to program the logic.
-Integrating prolof into Java in order to build a UI.
+* Learned how to use prolog to program the logic.
+* Integrating prolof into Java in order to build a UI.
 
 # **What's next for CarInsuranceAnalytics**
-Finish developing our UI to be able to organize the final claim display.
-Add more specifications based on car price and model (luxury cars have higher insurance).
-Figure out how to create an interface for users to input their history instead of manually creating a specific file for each case.
+* Finish developing our UI to be able to organize the final claim display.
+* Add more specifications based on car price and model (luxury cars have higher insurance).
+* Figure out how to create an interface for users to input their history instead of manually creating a specific file for each case.
 
 # **Build with**
-Java, Prolog, and sCasp
+* Java
+* Prolog
+* sCasp
