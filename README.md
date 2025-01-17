@@ -20,7 +20,8 @@ Created something that's applicable in real life.
 The underlying logic for assigning an insurance type to a client is well-structured.
 
 # **What we learned**
-We learned how to use prolog for the first time, as well as how to integrate it with Java.
+Learned how to use prolog to program the logic.
+Integrating prolof into Java in order to build a UI.
 
 # **What's next for CarInsuranceAnalytics**
 Finish developing our UI to be able to organize the final claim display.
