@@ -22,8 +22,8 @@ The underlying logic for assigning an insurance type to a client is well-structu
 # **What we learned**
 We learned how to use prolog for the first time, as well as how to integrate it with Java.
 
-# **Whats next for PolicyPro**
+# **What's next for CarInsuranceAnalytics**
 Finish developing our UI to be able to organize the final claim display.
-Add for specification based on car price and model (luxury cars have higher insurance).
+Add more specifications based on car price and model (luxury cars have higher insurance).
 Figure out how to create an interface for users to input their history instead of manually creating a specific file for each case.
 
