@@ -11,8 +11,8 @@ Used prolog to define the logic.
 Used Ubuntu to compile and successfully test our file with an average runtime of 3.00s.
 
 # **Challenges we ran into**
-# We encountered challenges in properly executing the prolog code.
-# It was hard to ensure that all relevant factors were thoroughly considered when assigning insurance.
+ * We encountered challenges in properly executing the prolog code.
+ * It was hard to ensure that all relevant factors were thoroughly considered when assigning insurance.
 
 # **Accomplishments we are proud of**
 We worked with sCasp for the first time and made a good product.
