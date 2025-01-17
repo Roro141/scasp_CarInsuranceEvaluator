@@ -28,4 +28,4 @@ Add more specifications based on car price and model (luxury cars have higher in
 Figure out how to create an interface for users to input their history instead of manually creating a specific file for each case.
 
 # **Build with**
-Java, Prolog sCasp
+Java, Prolog, and sCasp
