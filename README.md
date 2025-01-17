@@ -3,7 +3,7 @@
 Given the multitude of factors that influence coverage options and premiums, it can be very tedious for insurance companies to process all these claims. In an increasingly complex market, many individuals struggle to identify the best policy for their circumstances. We developed a car insurance evaluation system that streamlines this process. By assessing key factors like age, mileage, accidents, etc, our platform delivers personalized recommendations to secure the optimal coverage for their needs.
 
 #  **What it does**
-Using machine learning techniques, the system predicts the most appropriate policy—cheap, standard, or expensive—based on the driver’s data with 100% accuracy.
+By utilizing advanced machine learning techniques, the system predicts the most appropriate policy—cheap, standard, or expensive—based on the driver’s data with 100% accuracy.
 
 # **How we built it**
 * Developed a grading system based on how many bad/good factors based on the clients driving record.
