@@ -1,9 +1,9 @@
 %%FACTS
-ownerAge(jose, 21).
-mileage(jose, 80000).
-accidentHistory(jose, 2).
-violationHistory(jose, 3).
-credit(jose, 730).
+ownerAge(jasmine, 35).
+mileage(jasmine, 50000).
+accidentHistory(jasmine, 0).
+violationHistory(jasmine, 1).
+credit(jasmine, 730).
 
 %%RULES
 
@@ -66,10 +66,10 @@ expensiveInsurance(X) :- highRiskDriver(X), highMileage(X),not standardAgeDriver
 expensiveInsurance(X) :- safeDriver(X), highMileage(X), not standardAgeDriver(X),badCredit(X).
 expensiveInsurance(X) :- safeDriver(X), highMileage(X),standardAgeDriver, badCredit(X).
 
-%% Define a rule to determine the insurance type for Jose
+%% Define a rule to determine the insurance type for Jasmine
 insuranceType(X, expensive) :- expensiveInsurance(X).
 insuranceType(X, standard) :- standardInsurance(X).
 insuranceType(X, cheap) :- cheapInsurance(X).
 
-%% Query the insurance type for Jose
+%% Query the insurance type for Jasmine
 ?- insuranceType(jose, InsuranceType).
