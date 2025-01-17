@@ -3,16 +3,18 @@
 Given the multitude of factors that influence coverage options and premiums, it can be very tedious for insurance companies to process all these claims. In an increasingly complex market, many individuals struggle to identify the best policy for their circumstances. We developed a car insurance evaluation system that streamlines this process. By assessing key factors like age, mileage, accidents, etc, our platform delivers personalized recommendations to secure the optimal coverage for their needs.
 
 #  **What it does**
-By utilizing advanced machine learning techniques, the system predicts the most appropriate policy—cheap, standard, or expensive—based on the driver’s data with 100% accuracy.
+By utilizing machine learning teachniques, we have created a system that predicts the appropriate policy tier, cheap, standard and expensive, based on driver data with 100% accuracy.
 
 # **How we built it**
 * Developed a grading system based on how many bad/good factors based on the clients driving record.
 * Used prolog to define the logic.
 * Used Ubuntu to compile and successfully test our file with an average runtime of 3.00s.
+* Created a user interface using Java for categorizing the insurance.
 
 # **Challenges we ran into**
  * We encountered challenges in properly executing the prolog code.
  * It was hard to ensure that all relevant factors were thoroughly considered when assigning insurance.
+ * We realized that Java required a different format for the prolog file than the command prompt.
 
 # **Accomplishments we are proud of**
 * We worked with sCasp for the first time and made a good product.
